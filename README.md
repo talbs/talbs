@@ -2,7 +2,7 @@
 
 An all-purpose product designer who codes.
 
-You can find me jamming on [Web Awesome](https://webawesome.com) and [Font Awesome](https://fontawesome.com), and making [Tiny Tells](https://github.com/talbs/tiny-tells) on the side.
+You can find me jamming on [Web Awesome](https://webawesome.com) and [Font Awesome](https://fontawesome.com), and making [Tiny Tells](https://github.com/talbs/tiny-tells) and [Hue Hop](https://github.com/talbs/hue-hop) on the side.
 
 Things I dig…
 
