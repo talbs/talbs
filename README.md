@@ -9,7 +9,7 @@ Things I dig…
 - 🎨 Designing in web components, HTML, and CSS
 - 🧼 A clean, logical git history
 - 🤝 Building teams that build great products (and, more importantly, build each other up)
-- ✨ Polishing the ideas and interactions that matter
+- ✨ Polishing ideas and interactions that matter
 - 🔍 Sweating the small stuff: focus rings, empty states, microcopy
 - 🍳 Cooking with (and for) family + friends
 - 🪴 Gardening, by the square foot and in my local community
